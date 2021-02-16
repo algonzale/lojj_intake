@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YACF,CAEA,YAEE,oBACF","file":"main.2890b57b.chunk.css","sourcesContent":[".App {\n  padding: 16px;\n}\n\n.login_root {\n  margin: auto;\n  margin-top: 30%;\n}\n"]}

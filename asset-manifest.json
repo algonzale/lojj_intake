@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lojj_intake/static/css/main.2890b57b.chunk.css",
+    "main.js": "/lojj_intake/static/js/main.6913fb80.chunk.js",
+    "main.js.map": "/lojj_intake/static/js/main.6913fb80.chunk.js.map",
+    "runtime-main.js": "/lojj_intake/static/js/runtime-main.fbb3017d.js",
+    "runtime-main.js.map": "/lojj_intake/static/js/runtime-main.fbb3017d.js.map",
+    "static/css/2.79c08235.chunk.css": "/lojj_intake/static/css/2.79c08235.chunk.css",
+    "static/js/2.c56f9fb3.chunk.js": "/lojj_intake/static/js/2.c56f9fb3.chunk.js",
+    "static/js/2.c56f9fb3.chunk.js.map": "/lojj_intake/static/js/2.c56f9fb3.chunk.js.map",
+    "static/js/3.3a362020.chunk.js": "/lojj_intake/static/js/3.3a362020.chunk.js",
+    "static/js/3.3a362020.chunk.js.map": "/lojj_intake/static/js/3.3a362020.chunk.js.map",
+    "index.html": "/lojj_intake/index.html",
+    "static/css/2.79c08235.chunk.css.map": "/lojj_intake/static/css/2.79c08235.chunk.css.map",
+    "static/css/main.2890b57b.chunk.css.map": "/lojj_intake/static/css/main.2890b57b.chunk.css.map",
+    "static/js/2.c56f9fb3.chunk.js.LICENSE.txt": "/lojj_intake/static/js/2.c56f9fb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbb3017d.js",
+    "static/css/2.79c08235.chunk.css",
+    "static/js/2.c56f9fb3.chunk.js",
+    "static/css/main.2890b57b.chunk.css",
+    "static/js/main.6913fb80.chunk.js"
+  ]
+}
